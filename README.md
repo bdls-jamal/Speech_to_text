@@ -7,4 +7,6 @@ The idea is to train an AI to be able to take user input and respond with phrase
 This idea is inspired by my desire to practice speech in the Japanese language as a native English speaker in a controlled environment and without having to seek out native Japanese speakers for help.
 
 There is audio file to text conversion functions commented out within the code, this is to remain commented or deleted and is solely for personal reference and potential future use.
+Code cleanup and GUI changes to come.
+
 To anybody who sees this, ENJOY!
