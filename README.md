@@ -1,3 +1,8 @@
+# Requirements
+For this to work on your device, it requires the installation of pyaudio and SpeechRecognition.
+These can be downloaded via the command line using pip or your preferred alternative method.
+Note that pyaudio requires Microsoft Visual C++ 14.0.
+
 # The Code
 This is the first version of my speech to text program.
 It takes input from the user's microphone and converts it into text which is then presented on screen.
